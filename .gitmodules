@@ -16,3 +16,6 @@
 [submodule "ELN9203"]
 	path = ELN9203
 	url = https://github.com/Manouchehri/ELN9203
+[submodule "ELN9204"]
+	path = ELN9204
+	url = https://github.com/Manouchehri/ELN9204
