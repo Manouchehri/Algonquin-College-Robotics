@@ -1,0 +1,18 @@
+[submodule "Outlines"]
+	path = Outlines
+	url = https://github.com/Manouchehri/Algonquin-College-Robotics-Outlines
+[submodule "ROB9205"]
+	path = ROB9205
+	url = https://github.com/Manouchehri/ROB9205
+[submodule "ROB8201"]
+	path = ROB8201
+	url = https://github.com/Manouchehri/ROB8201
+[submodule "ELN8303"]
+	path = ELN8303
+	url = https://github.com/Manouchehri/ELN8303
+[submodule "ELN9207"]
+	path = ELN9207
+	url = https://github.com/Manouchehri/ELN9207
+[submodule "ELN9203"]
+	path = ELN9203
+	url = https://github.com/Manouchehri/ELN9203
